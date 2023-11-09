@@ -3,6 +3,7 @@
 This is the reference list of my presentation in Finnish Symposium on Computational Biology 2023
 
 Slide 2: G. Shmueli. "To Explain or to Predict?" Statist. Sci.. https://doi.org/10.1214/10-STS330
+
 Slide 3: Moradi E, Pepe A, Gaser C, Huttunen H, Tohka J; Alzheimer's Disease Neuroimaging Initiative. Machine learning framework for early MRI-based Alzheimer's conversion prediction in MCI subjects. Neuroimage. 2015 Jan 1;104:398-412. doi: 10.1016/j.neuroimage.2014.10.002. Epub 2014 Oct 12. PMID: 25312773; PMCID: PMC5957071.
 Slide 4: DiLuca M, Olesen J. The cost of brain diseases: a burden or a challenge? Neuron. 2014 Jun 18;82(6):1205-8. doi: 10.1016/j.neuron.2014.05.044. PMID: 24945765.
 Slide 5: 
